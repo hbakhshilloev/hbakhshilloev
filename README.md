@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hbakhshilloev
-- 👀 I’m interested in  all Open Source Project
+- 👀 I’m interested in  all Open Source Projects
 - 🌱 I’m currently learning 
     - Golang , Docker , Big Data , DB, NoSQL , Python, Django, AI
 - 💞️ I’m looking to collaborate on 
